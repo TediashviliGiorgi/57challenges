@@ -8,7 +8,7 @@ RestAPIJs: REST API Challenges: Practice coding skills with 57 challenges from t
 
 RestAPIReact: REST API Challenges: Practice coding skills with 57 challenges from the book. React and asp .net core.
 
-WPF: REST API Challenges: Practice coding skills with 57 challenges from the book. Using a WPF.
+
 
 
 Challenge1 -------> Sol1
