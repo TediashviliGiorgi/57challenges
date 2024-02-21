@@ -1,0 +1,15 @@
+D:\importentFiles\traning\challenges\CLI\DotNet\Sol2\bin\Debug\net8.0\Sol2.exe
+D:\importentFiles\traning\challenges\CLI\DotNet\Sol2\bin\Debug\net8.0\Sol2.deps.json
+D:\importentFiles\traning\challenges\CLI\DotNet\Sol2\bin\Debug\net8.0\Sol2.runtimeconfig.json
+D:\importentFiles\traning\challenges\CLI\DotNet\Sol2\bin\Debug\net8.0\Sol2.dll
+D:\importentFiles\traning\challenges\CLI\DotNet\Sol2\bin\Debug\net8.0\Sol2.pdb
+D:\importentFiles\traning\challenges\CLI\DotNet\Sol2\obj\Debug\net8.0\Sol2.GeneratedMSBuildEditorConfig.editorconfig
+D:\importentFiles\traning\challenges\CLI\DotNet\Sol2\obj\Debug\net8.0\Sol2.AssemblyInfoInputs.cache
+D:\importentFiles\traning\challenges\CLI\DotNet\Sol2\obj\Debug\net8.0\Sol2.AssemblyInfo.cs
+D:\importentFiles\traning\challenges\CLI\DotNet\Sol2\obj\Debug\net8.0\Sol2.csproj.CoreCompileInputs.cache
+D:\importentFiles\traning\challenges\CLI\DotNet\Sol2\obj\Debug\net8.0\Sol2.sourcelink.json
+D:\importentFiles\traning\challenges\CLI\DotNet\Sol2\obj\Debug\net8.0\Sol2.dll
+D:\importentFiles\traning\challenges\CLI\DotNet\Sol2\obj\Debug\net8.0\refint\Sol2.dll
+D:\importentFiles\traning\challenges\CLI\DotNet\Sol2\obj\Debug\net8.0\Sol2.pdb
+D:\importentFiles\traning\challenges\CLI\DotNet\Sol2\obj\Debug\net8.0\Sol2.genruntimeconfig.cache
+D:\importentFiles\traning\challenges\CLI\DotNet\Sol2\obj\Debug\net8.0\ref\Sol2.dll

@@ -1,6 +1,0 @@
-@Sol1_HostAddress = http://localhost:5216
-
-GET {{Sol1_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
